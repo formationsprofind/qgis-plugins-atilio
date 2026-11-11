@@ -7,9 +7,9 @@
     <qgis_minimum_version>4.0</qgis_minimum_version>
     <qgis_maximum_version>4.99</qgis_maximum_version>
     <homepage>https://github.com/formationsprofind/qgis-plugins-atilio</homepage>
-    <file_name>atelier1-atilio-0.1.zip</file_name>
+    <file_name>atelier1.zip</file_name>
     <author_name>Atilio</author_name>
-    <download_url>https://formationsprofind.github.io/qgis-plugins-atilio/atelier1-atilio-0.1.zip</download_url>
+    <download_url>https://formationsprofind.github.io/qgis-plugins-atilio/atelier1.zip</download_url>
     <experimental>False</experimental>
     <deprecated>False</deprecated>
   </pyqgis_plugin>
