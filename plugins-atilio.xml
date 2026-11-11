@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-  <pyqgis_plugin name="atelier1" version="1.0.0" plugin_id="atelier1">
+  <pyqgis_plugin name="atelier1" version="0.1" plugin_id="atelier1">
     <description>Extension QGIS développée pendant le stage</description>
     <about>Extension pédagogique atelier1.</about>
     <version>0.1</version>
